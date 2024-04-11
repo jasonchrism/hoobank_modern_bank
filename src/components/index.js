@@ -1,0 +1,14 @@
+import Navbar from './Navbar';
+import Billings from './Billings';
+import Business from './Business';
+import CardDeal from './CardDeal';
+import Clients from './Clients';
+import CTA from './CTA';
+import Footer from './Footer';
+import Hero from './Hero';
+import Stats from './Stats';
+import Testimonials from './Testimonials';
+
+export {
+    Navbar, Billings, Business, CardDeal, Clients, CTA, Footer, Hero, Stats, Testimonials
+};
